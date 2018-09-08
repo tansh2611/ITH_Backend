@@ -1,0 +1,23 @@
+{
+  "name": "serverapi",
+  "version": "1.0.0",
+  "description": "RESTful server api",
+  "main": "index.js",
+  "start": "nodemon server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: No test specified\\\" \""
+  },
+  "keywords": [
+    "[\"RESTful\"",
+    "\"Api\"]"
+  ],
+  "author": "\"Tanvi Shah\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13"
+  }
+}
