@@ -1,7 +1,7 @@
 {
   "name": "serverapi",
   "version": "1.0.0",
-  "description": "RESTful server api",
+  "description": "RESTful server API. This assignment is created for technical assessment with ITH technologies!",
   "main": "index.js",
   "start": "nodemon server.js",
   "scripts": {
